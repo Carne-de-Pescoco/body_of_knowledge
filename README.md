@@ -18,10 +18,12 @@ This section contains a collaborative body of knowledge that aims to lead our de
 > 1. [Course: Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/): Free Git/GitHub course from [Willian Justen](https://willianjusten.com.br/).
 > 1. [Post: Aprenda conceitos de git, não comandos](https://github.com/PauloGoncalvesBH/treinamento-git): A great resource about control version, specifically Git. :octocat:
 > 1. [Course: Criando um ambiente de Desenvolvimento no Windows](https://www.udemy.com/course/criando-um-ambiente-de-desenvolvimento-no-windows/):  Another great course from [Willian Justen](https://willianjusten.com.br/). This course covers the creation of a development environment using WSL2 present in Windows 10.
+> 1. [Podcast: PodProgramar](https://podprogramar.com.br/): One of my favorite podcasts focused in development and carrer.
 
 ## 3. Statistical learning
 
 > 1. [Book: An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL): This book provides an introduction to statistical learning methods. It is aimed for upper level undergraduate students, masters students and Ph.D. students in the non-mathematical sciences.
+> 1. [Course: Machine Learning e Data Science com Python de A a Z](https://podprogramar.com.br/): A general and applied data science course. Professor Jones Granatyr has incredible teaching skills. Subsequently, he created a portal with several courses (https://iaexpert.academy/).
 > 1. [Post: Awesome MLOps](https://github.com/visenger/awesome-mlops#machine-learning): An extensive resource about fields related to MLOps.
 > 1. [Podcast: Pizza de Dados](https://pizzadedados.com/): One of the greatest data science podcasts.
 

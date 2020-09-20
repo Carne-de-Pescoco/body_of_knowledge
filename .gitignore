@@ -1,1 +1,6 @@
+# folders
 external
+
+# file types
+*.pptx
+*.ppt

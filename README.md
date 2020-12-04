@@ -13,8 +13,9 @@ Esta seção contém um corpo colaborativo de conhecimento que visa indicar mate
 > 1. [Hacker Rank](https://www.hackerrank.com/)
 > 1. [Leet Code](https://leetcode.com/)
 
-## 2. Desenvolvimento de software
+## 2. Desenvolvimento e engenharia de software
 
+> 1. [My Software Engineer Roadmap](https://medium.com/swlh/my-software-engineer-roadmap-2fb0c02b8a08): Artigo no Medium no canal da *The Startup*. Gostei bastante pois ela agrupou em diagramas diversos conceitos.
 > 1. [Curso: Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/): Curso Git / GitHub gratuito de [Willian Justen](https://willianjusten.com.br/).
 > 1. [Postagem: Aprenda conceitos de git, não comandos](https://github.com/PauloGoncalvesBH/treinamento-git): Um ótimo recurso sobre softwares de controle de versão, especificamente Git. :octocat:
 > 1. [Curso: Criando um ambiente de Desenvolvimento no Windows](https://www.udemy.com/course/criando-um-ambiente-de-desenvolvimento-no-windows/): Outro ótimo curso de [Willian Justen ](https://willianjusten.com.br/). Este curso aborda a criação de um ambiente de desenvolvimento usando WSL2 presente no Windows 10.
